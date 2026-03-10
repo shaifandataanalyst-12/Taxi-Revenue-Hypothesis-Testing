@@ -1,4 +1,5 @@
 # Taxi Revenue Hypothesis Testing
+Analyzed 6M+ taxi trip records to evaluate revenue differences between payment methods.
 
 ## Project Overview
 This project analyzes taxi trip data to investigate whether payment methods influence the total fare amount.
