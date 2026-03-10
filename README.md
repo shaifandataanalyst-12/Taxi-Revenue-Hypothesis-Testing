@@ -13,13 +13,14 @@ Understanding the relationship between payment method and fare amount can help i
 - Seaborn
 
 ## Dataset
+https://drive.google.com/file/d/18XjmeyDf-xNK94c9th-EQ5KLRMt5_02S/view?usp=drive_link
 Taxi trip dataset containing:
 - Trip distance
 - Payment type
 - Fare amount
 - Pickup location
 - Drop-off location
-https://drive.google.com/file/d/18XjmeyDf-xNK94c9th-EQ5KLRMt5_02S/view?usp=drive_link
+
 
 ## Analysis Performed
 - Data cleaning and preprocessing using Pandas
